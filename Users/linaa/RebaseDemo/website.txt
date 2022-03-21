@@ -1,3 +1,4 @@
 Navbar added
 Footer added
 Login form added
+Image gallery added
