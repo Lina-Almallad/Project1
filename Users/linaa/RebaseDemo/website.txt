@@ -1,4 +1,4 @@
 Main Navbar added
 Footer added
-Signup form added
+Logout form added
 Image gallery added
