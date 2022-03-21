@@ -1,1 +1,2 @@
 Navbar added
+Footer added
